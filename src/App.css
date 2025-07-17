@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+#root {
+    font-family: 'PT Mono', Courier, monospace;
+}
+@theme {
+    --color-foreground: #171717;
+}
